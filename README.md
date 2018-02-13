@@ -4,12 +4,7 @@ A simple clock, that displays the time in my opinion beautifuly.
 ![](https://lh3.googleusercontent.com/-aS8O3KIq82g/WoJOO8Wg26I/AAAAAAAAABc/H2AnNaQvU9o231HyWQSN1XIn4H-vdOCagCJoC/w530-h513-n-rw/beautifulclock.PNG)
 
 
-
-## Getting Started
-
-Simply just download the source code, and use it your website and or project. 
-
-### Tips
+## Tips
 
 You are more than welcome to modify the code to make it better and/or to fit your needs. However you may want to direct yourself to the p5 reference manual. Here is a link to the reference:
 
@@ -46,16 +41,8 @@ To get the month as a name type, I created an array `months` and based on the in
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **TanavSharma**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+Inspiration from TheCodeTrain on YouTube.
