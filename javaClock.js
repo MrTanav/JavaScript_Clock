@@ -38,7 +38,7 @@ function draw(){
 	strokeWeight(3);
 	text(hr+":"+min+":"+sec,-65,0);
 	
-	var months = ["Jan","Feb","Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
+	var months = ["","Jan","Feb","Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
 
 	textSize(20);
 	strokeWeight(2);
